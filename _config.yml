@@ -26,13 +26,10 @@ description: >- # used by seo meta and the atom feed
   Embedded systems development YouTube channel
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://embeddedgeek.net"
 
 github:
   username: EmbeddedGeekYT # change to your github username
-
-twitter:
-  username: embeddedgeek # change to your twitter username
 
 social:
   # Change to your full name.
@@ -41,11 +38,8 @@ social:
   email: info@embeddedgeek.net # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/embeddedgeek # change to your twitter homepage
     - https://github.com/embeddedgeekyt # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://youtube.com/@emgeek
 
 google_site_verification: # fill in to your verification string
 
