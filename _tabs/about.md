@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+On this site I will add som extra context to the videos that can't be gotten from the video or GitHub repository alone. Have a look on the posts section.
